@@ -1,0 +1,3 @@
+hello
+I have added some ideas about how to better clean the data, how to help potential tourist to benefit from data set and what could be beneficial for tourist that is missing in dataset.
+thank You
